@@ -2,7 +2,7 @@
 
 A cute, interactive apology webpage with **real moving emoji animations** — walking animals, floating hearts, physics bursts, and a playful runaway button. Built with love by **Medini Thrishala**.
 
-![Apology Page Preview](preview.png)
+![Apology Page Preview](https://flamingo-j5pjbh.my.canva.site/)
 <!-- Add a screenshot of your page here -->
 
 ## 🌟 About
